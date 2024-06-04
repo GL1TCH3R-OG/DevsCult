@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+
+#h1{
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    top: 20px;
+    bottom: 20px;
+    color: white;
+    margin-top: 0px;
+    font-family: jaro;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(10, 10, 10, 0.7);
+    
+
+}
+
+
+#b{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('terminal.gif'); 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    backdrop-filter: blur(10px);
+    
+}
+
+#dclink{
+    vertical-align: middle;
+    height: 50px;
+    width: 50px;
+}
